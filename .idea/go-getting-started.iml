@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="Go" enabled="true" />
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="GOPATH &lt;go-getting-started&gt;" level="project" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/repair-api/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/core/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/cccp/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/cccp/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/claim-api/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/cccp/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/claim-api/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/repair-api/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/repair-api/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/core/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/cccp/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/cccp/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/claim-api/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/cccp/vendor/twig/twig/test/Twig/Tests/Loader/Fixtures/phar/phar-sample.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/claim-api/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$USER_HOME$/workspace/src/sisu.sh/application/repair-api/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
