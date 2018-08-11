@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should render Home correctly 1`] = `
+<glamorous.Div
+  className="container"
+>
+  <glamorous.Div
+    className="col-xs-8 col-xs-offset-2 jumbotron text-center"
+  >
+    <h1>
+      Patient Data
+    </h1>
+    <p>
+      You have been asked to assist in the creation of an internal API & Search page for a national healthcare provider. This provider has a set of inpatient prospective payment systems providers.
+    </p>
+    <a
+      className="btn btn-primary btn-lg btn-login btn-block"
+      onClick={[Function]}
+    >
+      Search Patient Data
+    </a>
+  </glamorous.Div>
+</glamorous.Div>
+`;

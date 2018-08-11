@@ -1,0 +1,246 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table should render Table correctly 1`] = `
+<div>
+  <glamorous.Div
+    className="col-md-2"
+  >
+    <Form
+      filters={
+        Array [
+          Object {
+            "label": "State",
+            "name": "state",
+            "type": "state",
+          },
+          Object {
+            "label": "Max Discharges",
+            "name": "max_discharges",
+            "type": "number",
+          },
+          Object {
+            "label": "Min Discharges",
+            "name": "min_discharges",
+            "type": "number",
+          },
+          Object {
+            "label": "Max Covered Charges",
+            "name": "max_average_covered_charges",
+            "type": "decimal",
+          },
+          Object {
+            "label": "Min Covered Charges",
+            "name": "min_average_covered_charges",
+            "type": "decimal",
+          },
+          Object {
+            "label": "Max Medicare Payments",
+            "name": "max_average_medicare_payments",
+            "type": "decimal",
+          },
+          Object {
+            "label": "Min Medicare Payments",
+            "name": "min_average_medicare_payments",
+            "type": "decimal",
+          },
+        ]
+      }
+      handleSubmit={[Function]}
+    />
+  </glamorous.Div>
+  <glamorous.Div
+    className="col-md-9 jumbotron"
+    style={
+      Object {
+        "float": "right",
+      }
+    }
+  >
+    <ReactTable
+      AggregatedComponent={[Function]}
+      ExpanderComponent={[Function]}
+      FilterComponent={[Function]}
+      LoadingComponent={[Function]}
+      NoDataComponent={[Function]}
+      PadRowComponent={[Function]}
+      PaginationComponent={[Function]}
+      PivotValueComponent={[Function]}
+      ResizerComponent={[Function]}
+      TableComponent={[Function]}
+      TbodyComponent={[Function]}
+      TdComponent={[Function]}
+      TfootComponent={[Function]}
+      ThComponent={[Function]}
+      TheadComponent={[Function]}
+      TrComponent={[Function]}
+      TrGroupComponent={[Function]}
+      aggregatedKey="_aggregated"
+      className="-striped -highlight"
+      collapseOnDataChange={true}
+      collapseOnPageChange={true}
+      collapseOnSortingChange={true}
+      column={
+        Object {
+          "Aggregated": undefined,
+          "Cell": undefined,
+          "Expander": undefined,
+          "Filter": undefined,
+          "Footer": undefined,
+          "Header": undefined,
+          "Pivot": undefined,
+          "PivotValue": undefined,
+          "aggregate": undefined,
+          "className": "",
+          "filterAll": false,
+          "filterMethod": undefined,
+          "filterable": undefined,
+          "footerClassName": "",
+          "footerStyle": Object {},
+          "getFooterProps": [Function],
+          "getHeaderProps": [Function],
+          "getProps": [Function],
+          "headerClassName": "",
+          "headerStyle": Object {},
+          "minWidth": 100,
+          "resizable": undefined,
+          "show": true,
+          "sortMethod": undefined,
+          "sortable": undefined,
+          "style": Object {},
+        }
+      }
+      columns={
+        Array [
+          Object {
+            "Header": "Provider Name",
+            "accessor": "name",
+          },
+          Object {
+            "Header": "Provider Street Address",
+            "accessor": "street_address",
+          },
+          Object {
+            "Header": "Provider City",
+            "accessor": "city",
+          },
+          Object {
+            "Header": "Provider Zip Code",
+            "accessor": "zip_code",
+          },
+          Object {
+            "Header": "Provider State",
+            "accessor": "state",
+          },
+          Object {
+            "Header": "Hospital Referral Region Description",
+            "accessor": "hrrd",
+          },
+          Object {
+            "Header": "Total Discharges",
+            "accessor": "total_discharges",
+          },
+          Object {
+            "Header": "Average Covered Charges",
+            "accessor": "average_covered_charges",
+          },
+          Object {
+            "Header": "Average Total Payments",
+            "accessor": "average_total_payments",
+          },
+          Object {
+            "Header": "Average Medicare Payments",
+            "accessor": "average_medicare_payments",
+          },
+        ]
+      }
+      data={Array []}
+      defaultExpanded={Object {}}
+      defaultFilterMethod={[Function]}
+      defaultFiltered={Array []}
+      defaultPageSize={20}
+      defaultResized={Array []}
+      defaultSortDesc={false}
+      defaultSortMethod={[Function]}
+      defaultSorted={Array []}
+      expanderDefaults={
+        Object {
+          "filterable": false,
+          "resizable": false,
+          "sortable": false,
+          "width": 35,
+        }
+      }
+      filterable={false}
+      freezeWhenExpanded={false}
+      getLoadingProps={[Function]}
+      getNoDataProps={[Function]}
+      getPaginationProps={[Function]}
+      getProps={[Function]}
+      getResizerProps={[Function]}
+      getTableProps={[Function]}
+      getTbodyProps={[Function]}
+      getTdProps={[Function]}
+      getTfootProps={[Function]}
+      getTfootTdProps={[Function]}
+      getTfootTrProps={[Function]}
+      getTheadFilterProps={[Function]}
+      getTheadFilterThProps={[Function]}
+      getTheadFilterTrProps={[Function]}
+      getTheadGroupProps={[Function]}
+      getTheadGroupThProps={[Function]}
+      getTheadGroupTrProps={[Function]}
+      getTheadProps={[Function]}
+      getTheadThProps={[Function]}
+      getTheadTrProps={[Function]}
+      getTrGroupProps={[Function]}
+      getTrProps={[Function]}
+      groupedByPivotKey="_groupedByPivot"
+      indexKey="_index"
+      loading={false}
+      loadingText="loading..."
+      manual={false}
+      multiSort={true}
+      nestingLevelKey="_nestingLevel"
+      nextText="Next"
+      noDataText="No rows found"
+      ofText="of"
+      onFetchData={[Function]}
+      originalKey="_original"
+      pageSizeOptions={
+        Array [
+          5,
+          20,
+          100,
+          200,
+          300,
+          500,
+        ]
+      }
+      pageText="Page"
+      pivotDefaults={Object {}}
+      pivotIDKey="_pivotID"
+      pivotValKey="_pivotVal"
+      previousText="Previous"
+      resizable={true}
+      resolveData={[Function]}
+      rowsText="rows"
+      showPageJump={true}
+      showPageSizeOptions={true}
+      showPagination={true}
+      showPaginationBottom={true}
+      showPaginationTop={false}
+      sortable={true}
+      style={Object {}}
+      subRowsKey="_subRows"
+    />
+    <glamorous.Div>
+      <a
+        className="btn btn-primary btn-lg btn-login btn-block"
+        onClick={[Function]}
+      >
+        End Search
+      </a>
+    </glamorous.Div>
+  </glamorous.Div>
+</div>
+`;

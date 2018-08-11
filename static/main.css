@@ -1,0 +1,71 @@
+  .jumbotron {
+    background: #532F8C;
+    color: white;
+    padding-bottom: 40px;
+    float: right;
+  }
+  .jumbotron .btn-primary {
+    background: #845ac7;
+    border-color: #845ac7;
+  }
+  .jumbotron .btn-primary:hover {
+    background: #7646c1; }
+  .jumbotron p {
+    color: #d9ccee;
+    max-width: 75%;
+    margin: 1em auto 2em; }
+  .navbar + .jumbotron {
+    margin-top: -20px; }
+  .jumbotron .lang-logo {
+    display: block;
+    background: #B01302;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 2px solid white;
+  }
+  .jumbotron .lang-logo img {
+    max-width: 100%;
+  }
+
+  input, select {
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+    outline: none;
+    border-radius: 4px;
+    color: #555555;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 4px 6px;
+    width: 200px;
+    float: right;
+    clear: both;
+    border-radius: 4px;
+  }
+  label {
+    text-align: right;
+    clear: both;
+    float:left;
+    margin-right:15px;
+  }
+  select {
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+    outline: none;
+    border-radius: 4px;
+    color: #555555;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 20px;
+    width: 150px;
+    float: right;
+    clear: both;
+    padding: 4px 6px;
+  }
