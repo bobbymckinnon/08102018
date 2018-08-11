@@ -12,7 +12,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../challenge0810/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="536">
@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../challenge0810/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="57">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,8 +58,8 @@
         <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/../challenge0810/vendor/vendor.json" />
-        <option value="$PROJECT_DIR$/../challenge0810/.gitignore" />
         <option value="$PROJECT_DIR$/../challenge0810/main.go" />
+        <option value="$PROJECT_DIR$/../challenge0810/.gitignore" />
       </list>
     </option>
   </component>
@@ -252,12 +252,12 @@
       <updated>1533977186881</updated>
       <workItem from="1533977189299" duration="2000" />
       <workItem from="1533977200223" duration="1519000" />
-      <workItem from="1533978906086" duration="6630000" />
+      <workItem from="1533978906086" duration="7082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8151000" />
+    <option name="totallyTimeSpent" value="8603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
@@ -375,10 +375,10 @@
         <state relative-caret-position="502">
           <caret line="78" column="6" lean-forward="false" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
           <folding>
-            <marker date="1533997463950" expanded="true" signature="1068:1614" ph="{&quot;checksumSHA1&quot;: &quot;ZUOd8OUOp+xdpB7p4w/O86Y8wyc=&quot;...}" />
-            <marker date="1533997463950" expanded="true" signature="1618:1776" ph="{&quot;checksumSHA1&quot;: &quot;sEvWJKs6aL3UR/p4v7idVo54urY=&quot;...}" />
-            <marker date="1533997463950" expanded="true" signature="1780:1935" ph="{&quot;checksumSHA1&quot;: &quot;lQlNwdfW3dVSpBhim0KHyxcHOeo=&quot;...}" />
-            <marker date="1533997463950" expanded="true" signature="1939:2142" ph="{&quot;checksumSHA1&quot;: &quot;uSEQNzkAs3vVc52f/Q/nZJPaH3Q=&quot;...}" />
+            <marker date="1533997858554" expanded="true" signature="1068:1614" ph="{&quot;checksumSHA1&quot;: &quot;ZUOd8OUOp+xdpB7p4w/O86Y8wyc=&quot;...}" />
+            <marker date="1533997858554" expanded="true" signature="1618:1776" ph="{&quot;checksumSHA1&quot;: &quot;sEvWJKs6aL3UR/p4v7idVo54urY=&quot;...}" />
+            <marker date="1533997858554" expanded="true" signature="1780:1935" ph="{&quot;checksumSHA1&quot;: &quot;lQlNwdfW3dVSpBhim0KHyxcHOeo=&quot;...}" />
+            <marker date="1533997858554" expanded="true" signature="1939:2142" ph="{&quot;checksumSHA1&quot;: &quot;uSEQNzkAs3vVc52f/Q/nZJPaH3Q=&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -391,14 +391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../challenge0810/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../challenge0810/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="536">
@@ -406,6 +398,14 @@
           <folding>
             <element signature="e#14#187#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../challenge0810/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
