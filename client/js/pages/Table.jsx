@@ -37,6 +37,9 @@ class Table extends React.PureComponent {
 
     render() {
         const columns = [{
+            Header: 'DRG Def',
+            accessor: 'drg_definition'
+        }, {
             Header: 'Provider Name',
             accessor: 'name'
         }, {
